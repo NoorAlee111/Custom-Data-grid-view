@@ -1,0 +1,5 @@
+Noor,12,USER
+Hina,33,USER
+Ali,66,Admin
+Zaib,81,Admin
+Ahmed,90,Admin

@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\MydataGridView\tester\bin\Debug\tester.exe.config
+C:\Users\DELL\source\repos\MydataGridView\tester\bin\Debug\tester.exe
+C:\Users\DELL\source\repos\MydataGridView\tester\bin\Debug\tester.pdb
+C:\Users\DELL\source\repos\MydataGridView\tester\bin\Debug\MydataGridView.dll
+C:\Users\DELL\source\repos\MydataGridView\tester\bin\Debug\MydataGridView.pdb
+C:\Users\DELL\source\repos\MydataGridView\tester\obj\Debug\tester.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MydataGridView\tester\obj\Debug\tester.Form1.resources
+C:\Users\DELL\source\repos\MydataGridView\tester\obj\Debug\tester.Properties.Resources.resources
+C:\Users\DELL\source\repos\MydataGridView\tester\obj\Debug\tester.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MydataGridView\tester\obj\Debug\tester.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MydataGridView\tester\obj\Debug\tester.csproj.CopyComplete
+C:\Users\DELL\source\repos\MydataGridView\tester\obj\Debug\tester.exe
+C:\Users\DELL\source\repos\MydataGridView\tester\obj\Debug\tester.pdb

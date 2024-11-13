@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\MydataGridView\MydataGridView\obj\Debug\MydataGridView.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MydataGridView\MydataGridView\obj\Debug\MydataGridView.Customdgv.resources
+C:\Users\DELL\source\repos\MydataGridView\MydataGridView\obj\Debug\MydataGridView.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MydataGridView\MydataGridView\obj\Debug\MydataGridView.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MydataGridView\MydataGridView\bin\Debug\MydataGridView.dll
+C:\Users\DELL\source\repos\MydataGridView\MydataGridView\bin\Debug\MydataGridView.pdb
+C:\Users\DELL\source\repos\MydataGridView\MydataGridView\obj\Debug\MydataGridView.dll
+C:\Users\DELL\source\repos\MydataGridView\MydataGridView\obj\Debug\MydataGridView.pdb
